@@ -4,14 +4,16 @@ const hogs = [
     specialty: 'Mediocre magic',
     greased: false,
     weight: 2.0,
-    'highest medal achieved': 'bronze'
+    'highest medal achieved': 'bronze',
+    
   },
   {
     name: 'Porkchop',
     specialty: 'Making friends',
     greased: true,
     weight: 1.6,
-    'highest medal achieved': 'silver'
+    'highest medal achieved': 'silver',
+    
   },
   {
     name: 'Cherub',
