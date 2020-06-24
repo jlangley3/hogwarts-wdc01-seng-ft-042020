@@ -24,7 +24,6 @@ export default class Hogs extends Component {
 
     render() {
         let pigImage = require(`../hog-imgs/${this.sanitizeHogsImg(this.props.hog.name)}.jpg`)
-        console.log(this.props)
         return(
             <div className = 'ui eight wide column' onClick={this.toggleDetails} name="card">
                 <h2>
