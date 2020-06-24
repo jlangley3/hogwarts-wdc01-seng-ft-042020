@@ -44,12 +44,9 @@ handleSort = (event) => {
     })
   }
   
-    
-  
 }
   
   render() {
-
     return (
       <div className="App">
         <Nav />
