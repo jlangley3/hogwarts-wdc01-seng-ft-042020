@@ -1,11 +1,11 @@
-# Hogwarts: The React app for fans of prize-winning pigs
+ Hogwarts: The React app for fans of prize-winning pigs
 
 ## React Week 1 Project
 
 ## Project goals:
 
-* create an index displaying all hog tiles
-* render each hog name and picture in a tile
+<!-- * create an index displaying all hog tiles -->
+<!-- * render each hog name and picture in a tile -->
 * show the hog's details upon a user's click
 * filter the hogs that are greased
 * sort the hogs based on name
